@@ -1,3 +1,6 @@
 [submodule "httpie"]
 	path = httpie
 	url = https://github.com/nehcuh/httpie
+[submodule "thumbor"]
+	path = thumbor
+	url = https://github.com/nehcuh/thumbor
